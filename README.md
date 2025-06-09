@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+This is the official GitHub account of the [2025 RoboSense Challenge](https://robosense2025.github.io/).
+
+:mailbox: Contact: robosense2025@gmail.com
+
+- Track 1: Driving with Language
+- Track 2: Social Navigation
+- Track 3: Sensor Placement
+- Track 4: Cross-Modal Drone Navigation
+- Track 5: Cross-Platform 3D Object Detection
+
 <!--
 **robosense2025/robosense2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
