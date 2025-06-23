@@ -10,6 +10,12 @@ This is the official GitHub account of the [2025 RoboSense Challenge](https://ro
 - Track 4: Cross-Modal Drone Navigation
 - Track 5: Cross-Platform 3D Object Detection
 
+
+| ![track1](https://github.com/user-attachments/assets/52f8356a-99a5-4a4f-bbcd-154b184217d0) | ![track2](https://github.com/user-attachments/assets/445551e5-e0d5-4dc9-8bc8-3b6b22f658fc) | ![track3](https://github.com/user-attachments/assets/38008d82-5e86-479e-85fb-36d257914637) | 
+| :-: | :-: | :-: |
+| Track 1 | 
+
+
 Register today at [this](https://docs.google.com/forms/d/e/1FAIpQLSdwfvk-NHdQh9-REiBLCjHMcyLT-sPCOCzJU-ux5jbcZLTkBg/viewform) Google Form, and win :trophy: **$10,000 USD** ($2,000 for each track) from the award pool!
 
 <!--
